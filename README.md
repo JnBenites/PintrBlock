@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/jnbenites/PintrBlock/main/pinterest_blocked_users.txt
