@@ -1,5 +1,6 @@
 ||pinterest.*
 pinterest.com
+www.pinterest.com
 pinterest.es
 pinterest.com.mx
 pinterest.co.uk
