@@ -1,39 +1,52 @@
-||pinterest.*
-pinterest.com
-www.pinterest.com
-pinterest.es
-pinterest.com.mx
-pinterest.co.uk
-pinterest.fr
-pinterest.de
-pinterest.it
-pinterest.jp
-pinterest.com.br
-pinterest.ru
-pinterest.ca
-pinterest.com.au
-pinterest.in
-pinterest.com.ar
-pinterest.cl
-pinterest.co.kr
-pinterest.com.co
-pinterest.com.tw
-pinterest.com.tr
-pinterest.se
-pinterest.dk
-pinterest.at
-pinterest.ch
-pinterest.ph
-pinterest.fi
-pinterest.no
-pinterest.ie
-pinterest.nl
-pinterest.pl
-pinterest.cz
-pinterest.hu
-pinterest.ro
-pinterest.co.za
-pinterest.com.sg
-pinterest.com.ua
-pinimg.com
-ct.pinterest.com
+0.0.0.0 pinterest.com
+0.0.0.0 www.pinterest.com
+0.0.0.0 api.pinterest.com
+0.0.0.0 ads.pinterest.com
+0.0.0.0 analytics.pinterest.com
+0.0.0.0 about.pinterest.com
+0.0.0.0 blog.pinterest.com
+0.0.0.0 business.pinterest.com
+0.0.0.0 help.pinterest.com
+0.0.0.0 policy.pinterest.com
+0.0.0.0 newsroom.pinterest.com
+0.0.0.0 developers.pinterest.com
+0.0.0.0 insights.pinterest.com
+0.0.0.0 resources.pinterest.com
+0.0.0.0 brand.pinterest.com
+0.0.0.0 marketing.pinterest.com
+0.0.0.0 partners.pinterest.com
+0.0.0.0 pinterest.co.uk
+0.0.0.0 pinterest.ca
+0.0.0.0 pinterest.com.au
+0.0.0.0 pinterest.de
+0.0.0.0 pinterest.fr
+0.0.0.0 pinterest.jp
+0.0.0.0 pinterest.ru
+0.0.0.0 pinterest.com.br
+0.0.0.0 pinterest.es
+0.0.0.0 pinterest.it
+0.0.0.0 pinterest.ph
+0.0.0.0 pinterest.in
+0.0.0.0 pinterest.co.kr
+0.0.0.0 pinterest.com.ar
+0.0.0.0 pinterest.cl
+0.0.0.0 pinterest.com.co
+0.0.0.0 pinterest.com.tw
+0.0.0.0 pinterest.com.tr
+0.0.0.0 pinterest.se
+0.0.0.0 pinterest.dk
+0.0.0.0 pinterest.at
+0.0.0.0 pinterest.ch
+0.0.0.0 pinterest.fi
+0.0.0.0 pinterest.no
+0.0.0.0 pinterest.ie
+0.0.0.0 pinterest.nl
+0.0.0.0 pinterest.pl
+0.0.0.0 pinterest.cz
+0.0.0.0 pinterest.hu
+0.0.0.0 pinterest.ro
+0.0.0.0 pinterest.co.za
+0.0.0.0 pinterest.com.sg
+0.0.0.0 pinterest.com.ua
+0.0.0.0 pinimg.com
+0.0.0.0 ct.pinterest.com
